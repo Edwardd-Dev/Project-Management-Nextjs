@@ -18,7 +18,7 @@
 
 ## 📋 Sobre o Projeto
 
-Sistema moderno e intuitivo de gerenciamento de projetos desenvolvido com as tecnologias mais recentes do ecossistema React. Permite organizar tarefas, acompanhar progresso, gerenciar equipes e visualizar dados através de dashboards interativos.
+Aplicação completa de gerenciamento de projetos desenvolvida com Next.js, React e TypeScript. O sistema permite organizar tarefas, acompanhar progresso de projetos, gerenciar equipes e visualizar dados através de dashboards e gráficos interativos.
 
 ### ✨ Principais Funcionalidades
 
@@ -72,8 +72,8 @@ Certifique-se de ter instalado:
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/Edwardd-Dev/Project-Management-NextJS.git
-cd Project-Management-NextJS
+git clone https://github.com/Edwardd-Dev/Project-Management-Nextjs.git
+cd Project-Management-Nextjs
 ```
 
 2. **Navegue até a pasta do cliente**
@@ -244,17 +244,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Edward**
 
 - GitHub: [@Edwardd-Dev](https://github.com/Edwardd-Dev)
-- LinkedIn: [Seu LinkedIn](#)
-- Email: seu.email@example.com
-
----
-
-## 🙏 Agradecimentos
-
-- [Ed Roh](https://www.youtube.com/@EdRohDev) - Tutorial base do projeto
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Material-UI](https://mui.com/)
-- [Vercel](https://vercel.com) - Hospedagem
+- Email: edward.reis.eng@gmail.com
 
 ---
 
